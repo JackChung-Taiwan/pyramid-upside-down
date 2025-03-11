@@ -2,7 +2,7 @@
 
 This "Pyramid" extension was created by Jack Chung, a teacher at the Taiwan Information Education Development Association. Please adhere to the MIT License when using this extension in Minecraft: Education Edition programming lessons.
 
-用Minecraft Makecode建造實心與空心的金字塔與顛倒金字塔
+用Minecraft Makecode建造「實心與空心」的「金字塔與顛倒金字塔」
 
 Using Minecraft Makecode to build solid and hollow pyramids and inverted pyramids.
 

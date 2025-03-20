@@ -9,6 +9,7 @@ Using Minecraft Makecode to build solid and hollow pyramids and inverted pyramid
 注意事項: 若分享程式,需對方也要有此擴充 | If you share the MakeCode pyramid program, the other party must also have this extension.
 
 1.Copy https://makecode.com/_e9Jb2qbjuLA4 (Traditional Chinese) 
+       https://makecode.com/_0k6cCFdxyXqd (English version)
 
 2.Follow these steps and install the extension
 ![420642596-a4f526d5-2293-41cf-85da-c8681fb0578a](https://github.com/user-attachments/assets/56f0aeef-0107-4d7a-86f3-1ea59d25e10f)
